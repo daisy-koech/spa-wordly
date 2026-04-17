@@ -19,6 +19,7 @@ A simple dictionary that fetches word definitions, pronunciations and synonyms u
 
 ## How to run
 - Use Live Server VS Code extension to view the file on the browser.
+- Open https://spa-wordly-delta.vercel.app/ on vercel.
 
 ## How to use
 - Type an English word in the input field
